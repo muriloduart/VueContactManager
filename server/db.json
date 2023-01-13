@@ -1,0 +1,70 @@
+{
+  "contacts": [
+    {
+      "name": "Storm Trooper",
+      "photo": "https://www.seekpng.com/png/full/27-272555_stormtrooper-icon-png-star-wars-stormtrooper-dessin.png",
+      "email": "stormtrooper@starwars.com.br",
+      "mobile": 9999999999111,
+      "company": "Empire",
+      "title": "Soldier",
+      "groupId": 1,
+      "id": "mkchkT0"
+    },
+    {
+      "name": "Darth Vader",
+      "photo": "https://freepngimg.com/download/star_wars/104645-darth-star-wars-vader-png-download-free.png",
+      "email": "anakin@galaticempire.com",
+      "mobile": 999999999,
+      "company": "Empire",
+      "title": "Boss",
+      "groupId": 1,
+      "id": "HF1C33g"
+    },
+    {
+      "name": "Chewbacca",
+      "photo": "https://cdn.icon-icons.com/icons2/2126/PNG/512/chewbacca_star_wars_icon_131349.png",
+      "email": "chewie@rebles.com",
+      "mobile": 88888,
+      "company": "Rebels",
+      "title": "Soldier",
+      "groupId": 4,
+      "id": "hmCrtIN"
+    },
+    {
+      "name": "Luke Skywalker",
+      "photo": "https://icon-library.com/images/luke-skywalker-icon/luke-skywalker-icon-0.jpg",
+      "email": "skywalker@rebels.com",
+      "mobile": 7777777,
+      "company": "Rebels",
+      "title": "Captain",
+      "groupId": 2,
+      "id": "OADyyc_"
+    }
+  ],
+  "groups": [
+    {
+      "id": 1,
+      "name": "Colleague"
+    },
+    {
+      "id": 2,
+      "name": "Friend"
+    },
+    {
+      "id": 3,
+      "name": "Family"
+    },
+    {
+      "id": 4,
+      "name": "Service"
+    },
+    {
+      "id": 5,
+      "name": "Community"
+    },
+    {
+      "id": 6,
+      "name": "Social"
+    }
+  ]
+}

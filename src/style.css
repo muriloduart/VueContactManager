@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
+
+body {
+  font-family: 'Montserrat', sans-serif !important;
+  background-color: #f0fdf0 !important;
+}
+.contact-img {
+  width: 150px;
+  border-radius: 50%;
+}
+.contact-img-big {
+  width: 300px;
+  border-radius: 50%;
+}
