@@ -1,4 +1,10 @@
-![alt text](https://prnt.sc/Aev3tR6UlqRs)
+https://prnt.sc/Aev3tR6UlqRs
+
+
+-Bootstrap
+-Json-Server
+-Axios
+
 
 ## Project setup
 ```
